@@ -9,8 +9,8 @@ from timedelta import Timedelta  # For handling time deltas
 from finbert_utils import estimate_sentiment  # Utility for estimating sentiment from news data
 
 # API credentials for connecting to Alpaca
-API_KEY = "PKPAKJB1ZGX3RT2Z2UN7" 
-API_SECRET = "0EUerdnBeHoidtkxGihCjhyxXhkdHqnUmThw7FLu" 
+API_KEY = "INSERT_API_KEY_FROM_ALPACA" 
+API_SECRET = "INSERT_API_KEY_FROM_ALPACA" 
 BASE_URL = "https://paper-api.alpaca.markets"
 
 trading_ticker = "SPY"
